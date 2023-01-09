@@ -1,5 +1,5 @@
 
-# Visaul Designer
+# Visual Designer
 
 _website design project_
 
