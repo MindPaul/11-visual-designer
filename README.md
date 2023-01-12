@@ -1,9 +1,5 @@
-![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
-![Security Status](https://img.shields.io/security-headers?label=Security&url=https%3A%2F%2Fgithub.com&style=flat-square)
-![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
-![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Visaul Designer
+# Visual Designer
 
 _website design project_
 
@@ -13,7 +9,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: 
+Site published at: https://mindpaul.github.io/11-visual-designer/
 
 Design: [Visual Designer](https://mir-s3-cdn-cf.behance.net/project_modules/fs/25126d109660617.6307d087303bb.png)
 
