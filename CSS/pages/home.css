@@ -33,3 +33,29 @@ nav ul li {
     background-color: #ffff;
 }
 
+.main-foto {
+    width: 100%;
+    height: 600px;
+    object-fit: contain;
+    object-position: left;
+
+}
+
+.content {
+    width: 200px;
+    height: 600px;
+
+
+}
+
+.hello {
+    color: #d10018;
+}
+
+.head-line {
+    color: #ffff;
+}
+
+.description {
+    color: gray;
+}
